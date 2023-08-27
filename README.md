@@ -1,5 +1,5 @@
 # ProtectTheEarth
-Jogo estilo Space Invaders feito em Java
+Jogo estilo Space Invaders feito em Java baseado no curso da Danki Code.
 
 Jogo básico, sem som.
 
